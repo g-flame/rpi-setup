@@ -1,5 +1,8 @@
 # Rasberrypi Custom setup
 
+> [!NOTE]
+> This is still very much a work in progress I am currently buzy will finish when i get the time .
+
 > a bash script aiming to make it easy to setup some options in rasberry pi devices that are not running pi os or need to enable some other options .
 
 ## Quick Start
