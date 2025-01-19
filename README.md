@@ -1,59 +1,73 @@
-# Raspberry Pi Custom Options Setup                                                                           
----
+# rpi-setup
 
-## Overview
+<div align="center">
 
-A bash script utility for configuring advanced options on Raspberry Pi devices, particularly focused on non-Pi OS installations and specialized configurations.
+⚠️ **REPOSITORY MOVED** ⚠️
 
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Transfer Notice](https://img.shields.io/badge/NOTICE-Repository%20Transferred-red?style=for-the-badge)
+[![New Location](https://img.shields.io/badge/New_Location-g--flame--oss-blue?style=for-the-badge&logo=github)](https://github.com/g-flame-oss)
+[Organization Page](https://github.com/g-flame-oss)
 
-## Status Notice
-
-> **Note**: This project is currently under active development. Features and documentation will be expanded in future updates.
-
-## Purpose
-
-This tool simplifies the process of:
-
-- Configuring Raspberry Pi devices running alternative operating systems
-- Enabling advanced features not available through standard interfaces
-- Streamlining custom setup processes for specialized use cases
-
-## Quick Start
-
-```bash
-# Installation and usage instructions coming soon
+```diff
+- This repository has been permanently moved to the g-flame-oss organization.
+- Please update your references and bookmarks.
 ```
 
-## Features
+</div>
 
-Development is ongoing, with planned functionality including:
+## 🚨 Important Notice
 
-- Custom boot configuration options
-- Hardware interface enablement
-- Performance optimization settings
-- Network configuration utilities
+> **Warning**
+> This repository is no longer maintained at this location. All future updates, issues, and pull requests should be directed to the new repository.
 
-## Development Roadmap
+## 📍 New Location
 
-- [ ] Core script framework
-- [ ] Configuration modules
-- [ ] Documentation
-- [ ] Testing suite
-- [ ] User interface improvements
+This repository has been transferred to:
 
-## Contributing
 
-While the project is in early development, interested contributors can:
+[RPI-OPTIONS](https://github.com/g-flame-oss/rpi-options)
 
-1. Watch the repository for updates
-2. Submit feature requests via issues
-3. Provide feedback on planned features
 
-## Credits
+<details>
+<summary>📝 Update Instructions</summary>
 
+To update your local repository, run:
+
+```bash
+# Update remote URL
+git remote set-url origin https://github.com/g-flame-oss/rpi-options.git
+
+# Verify new remote
+git remote -v
+```
+</details>
+
+## ⚡ Quick Links
+- [Organization Page](https://github.com/g-flame-oss)
+
+## 🔄 What's Changed?
+
+- All existing issues and pull requests have been migrated
+- Star counts have been transferred
+- Existing clones will continue to work, but should be updated
+- Watchers will need to resubscribe at the new location
+
+---
+
+<div align="center">
+
+### Next Steps
+
+[![Visit New Repo](https://img.shields.io/badge/Visit-New%20Repository-success?style=for-the-badge&logo=github)](https://github.com/g-flame-oss/[REPOSITORY_NAME])
+[![Follow Organization](https://img.shields.io/badge/Follow-g--flame--oss-orange?style=for-the-badge&logo=github)](https://github.com/g-flame-oss)
+
+**Thank you for your understanding and continued support!**
+
+</div>
 Developed and maintained by [g-flame](https://github.com/g-flame)
 
 ---
 
 _More detailed documentation and features will be added as development progresses._
+
+> ~ g-flame
