@@ -61,9 +61,6 @@ git remote -v
 
 **Thank you for your understanding and continued support!**
 
-</div>
-Developed and maintained by [g-flame](https://github.com/g-flame)
-
 ---
 
 _More detailed documentation and features will be added as development progresses._
