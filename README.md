@@ -6,8 +6,6 @@
 
 ![Transfer Notice](https://img.shields.io/badge/NOTICE-Repository%20Transferred-red?style=for-the-badge)
 [![New Location](https://img.shields.io/badge/New_Location-g--flame--oss-blue?style=for-the-badge&logo=github)](https://github.com/g-flame-oss)
-[Organization Page](https://github.com/g-flame-oss)
-
 ```diff
 - This repository has been permanently moved to the g-flame-oss organization.
 - Please update your references and bookmarks.
